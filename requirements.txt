@@ -1,0 +1,14 @@
+streamlit==1.37.1
+pandas
+matplotlib
+numpy
+cvxpy
+ecos
+osqp
+scs
+yfinance
+numpy
+scipy
+requests>=2.32.0
+openpyxl
+reportlab
